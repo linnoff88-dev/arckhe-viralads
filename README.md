@@ -6,7 +6,7 @@
 </div>
 
 
-Curso completo no formato **INEMA.CLUB** para pêÂºblico de meia-idade para frente:
+Curso completo no formato **ARCKHÉ AI** para pêÂºblico de meia-idade para frente:
 **encontrar, desconstruir e recriar anêÂºncios que vendem** usando inteligêÂªncia artificial.
 
 Baseado no mêÂ©todo "caêÂ§ar ê¢â â estudar ê¢â â lanêÂ§ar" (nêÂ£o reinvente a roda: copie o que jêÂ¡ funciona)
@@ -14,7 +14,7 @@ e no uso de UGC (conteêÂºdo de gente comum), que converte ~10x mais que an�
 
 ## ê°Å¸ÅÂ Site publicado (GitHub Pages)
 
-https://inematds.github.io/viralads/
+https://linnoff88-dev.github.io/arckhe-/
 
 ## Estrutura
 

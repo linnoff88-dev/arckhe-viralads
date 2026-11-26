@@ -7,7 +7,7 @@ When to pick which Arcads model. Default is Seedance 2.0 — only deviate when t
 ```
 Talking actor + product, 4–15s, audio matters → SEEDANCE 2.0
 Single still you want to animate with dialogue, ~8s → VEO 3.1
-Style transfer / cinematic / 16–20s long form → SORA 2
+Style transfer / cARCKHÉtic / 16–20s long form → SORA 2
 Silent B-roll or scene under 15s → KLING 3.0 or /v1/b-roll
 Just need a still image first → NANO BANANA 2 (then animate)
 ```
@@ -30,7 +30,7 @@ Just need a still image first → NANO BANANA 2 (then animate)
 
 - **Strengths:** Discrete durations of 4/8/12/16/20s. Strong with style-reference images. Speech-capable.
 - **Weaknesses:** Less precise on product fidelity than Seedance.
-- **Use when:** Cinematic ads, brand-film aesthetic, the user wants longer narrative arcs.
+- **Use when:** CARCKHÉtic ads, brand-film aesthetic, the user wants longer narrative arcs.
 - **Don't use when:** Tight product accuracy matters — Seedance reads reference images more faithfully.
 
 ## Kling 3.0 — silent motion
