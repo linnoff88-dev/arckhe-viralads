@@ -1,4 +1,4 @@
-﻿# ðŸŽ¯ AnÃºncios Virais com IA
+ï»¿# ê°Å¸Å½Â¯ AnêÂºncios Virais com IA
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,29 +6,29 @@
 </div>
 
 
-Curso completo no formato **INEMA.CLUB** para pÃºblico de meia-idade para frente:
-**encontrar, desconstruir e recriar anÃºncios que vendem** usando inteligÃªncia artificial.
+Curso completo no formato **INEMA.CLUB** para pêÂºblico de meia-idade para frente:
+**encontrar, desconstruir e recriar anêÂºncios que vendem** usando inteligêÂªncia artificial.
 
-Baseado no mÃ©todo "caÃ§ar â†’ estudar â†’ lanÃ§ar" (nÃ£o reinvente a roda: copie o que jÃ¡ funciona)
-e no uso de UGC (conteÃºdo de gente comum), que converte ~10x mais que anÃºncio tradicional.
+Baseado no mêÂ©todo "caêÂ§ar ê¢â â estudar ê¢â â lanêÂ§ar" (nêÂ£o reinvente a roda: copie o que jêÂ¡ funciona)
+e no uso de UGC (conteêÂºdo de gente comum), que converte ~10x mais que anêÂºncio tradicional.
 
-## ðŸŒ Site publicado (GitHub Pages)
+## ê°Å¸ÅÂ Site publicado (GitHub Pages)
 
 https://inematds.github.io/viralads/
 
 ## Estrutura
 
-- `index.html` â€” landing page
-- **T1 Â· Fundamentos** (`curso/trilha1/`) â€” por que UGC vende mais, mentalidade do caÃ§ador, ciclo de vida do anÃºncio
-- **T2 Â· CaÃ§ar** (`curso/trilha2/`) â€” bibliotecas grÃ¡tis (Meta + TikTok), os 4 sinais de um campeÃ£o, lista e download
-- **T3 Â· Desconstruir** (`curso/trilha3/`) â€” as 5 dimensÃµes, anÃ¡lise quadro a quadro, catalogar padrÃµes
-- **T4 Â· Criar** (`curso/trilha4/`) â€” o fluxo com IA, ator e voz, realismo/variaÃ§Ãµes/seguranÃ§a
+- `index.html` ê¢â¬â landing page
+- **T1 êÂ· Fundamentos** (`curso/trilha1/`) ê¢â¬â por que UGC vende mais, mentalidade do caêÂ§ador, ciclo de vida do anêÂºncio
+- **T2 êÂ· CaêÂ§ar** (`curso/trilha2/`) ê¢â¬â bibliotecas grêÂ¡tis (Meta + TikTok), os 4 sinais de um campeêÂ£o, lista e download
+- **T3 êÂ· Desconstruir** (`curso/trilha3/`) ê¢â¬â as 5 dimensêÂµes, anêÂ¡lise quadro a quadro, catalogar padrêÂµes
+- **T4 êÂ· Criar** (`curso/trilha4/`) ê¢â¬â o fluxo com IA, ator e voz, realismo/variaêÂ§êÂµes/seguranêÂ§a
 
-4 trilhas Â· 12 mÃ³dulos Â· 72 tÃ³picos Â· linguagem acessÃ­vel, passo a passo.
+4 trilhas êÂ· 12 mêÂ³dulos êÂ· 72 têÂ³picos êÂ· linguagem acessêÂ­vel, passo a passo.
 
 ## Como abrir localmente
 
-Basta abrir `index.html` no navegador. SÃ£o pÃ¡ginas HTML estÃ¡ticas (Tailwind via CDN), sem build.
+Basta abrir `index.html` no navegador. SêÂ£o pêÂ¡ginas HTML estêÂ¡ticas (Tailwind via CDN), sem build.
 
 ---
 
